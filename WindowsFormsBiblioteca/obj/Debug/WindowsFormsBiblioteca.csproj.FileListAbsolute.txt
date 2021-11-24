@@ -1,0 +1,13 @@
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\bin\Debug\WindowsFormsBiblioteca.exe.config
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\bin\Debug\WindowsFormsBiblioteca.exe
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\bin\Debug\WindowsFormsBiblioteca.pdb
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.FrmBiblioteca.resources
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.FrmHora.resources
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.Properties.Resources.resources
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.exe
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.pdb
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.FrmAltas.resources
+C:\Users\admin\Source\Repos\WindowsFormsBiblioteca\obj\Debug\WindowsFormsBiblioteca.FrmConsultas.resources
